@@ -222,15 +222,6 @@ public class Animal {
 	
 	public static void main(String[] args) {
 		Animal theAnimal = new Animal();
-		
-		int[] favoriteNumber = new int [20];
-		favoriteNumber[0] = 100;
-		
-		String[] stringArray = {"Random", "Words", "Here"};
-		
-		
-		
-		
 	}
 	
 }

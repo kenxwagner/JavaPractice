@@ -226,11 +226,6 @@ public class Animal {
 		int[] favoriteNumber = new int [20];
 		favoriteNumber[0] = 100;
 		
-		String[] stringArray = {"Random", "Words", "Here"};
-		
-		
-		
-		
 	}
 	
 }
