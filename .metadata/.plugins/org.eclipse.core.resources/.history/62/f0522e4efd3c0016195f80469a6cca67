@@ -233,10 +233,6 @@ public class Animal {
 			
 			System.out.println(word);
 		}
-		/* How many Down, then how many Across, how many of those groups */
-		String[][][] arrayName = { { { "000" }, { "100" },{ "200" }, { "300" } },
-			{ { "000" },{ "110" },{ "210" },{ "310" } },
-			{ { "020" },{ "120" },{ "220" },{ "320" } }};
 		
 	}
 	
