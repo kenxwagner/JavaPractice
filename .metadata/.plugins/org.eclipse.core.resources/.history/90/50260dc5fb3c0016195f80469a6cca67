@@ -172,7 +172,6 @@ public class Animal {
 			if(i == 90) continue;
 			
 			System.out.println(i);
-			
 		}
 	}
 	
@@ -208,7 +207,7 @@ public class Animal {
 
 			number = userInput.nextInt();
 		
-		}while(number != 50);
+		}while(number !=50);
 	}
 	
 	public String makeSound(){
@@ -229,10 +228,8 @@ public class Animal {
 		
 		String[] stringArray = {"Random", "Words", "Here"};
 		
-		for (String word : stringArray){
-			
-			System.out.println(word);
-		}
+		
+		
 		
 	}
 	
