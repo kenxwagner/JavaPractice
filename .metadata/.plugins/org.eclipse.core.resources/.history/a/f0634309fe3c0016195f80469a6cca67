@@ -238,23 +238,6 @@ public class Animal {
 			{ { "000" },{ "110" },{ "210" },{ "310" } },
 			{ { "020" },{ "120" },{ "220" },{ "320" } }};
 		
-		for(int i = 0; i < arrayName.length; i++)
-		{
-			for(int j = 0; j < arrayName[i].length; j++)
-			{
-				for(int k = 0; k < arrayName[i][j].length; k++)
-				{
-					System.out.print("I " + arrayName[i][j][k] + " ");
-				}
-			}
-			System.out.println(" I ");
-		}
-		
-		String[] cloneOfArray = Arrays.copyOf(stringArray, 3);
-		
-		System.out.println(Arrays.toString(cloneOfArray));
-		
-		System.out.println(Arrays.binarySearch(cloneOfArray, "Random"));
 	}
 	
 }

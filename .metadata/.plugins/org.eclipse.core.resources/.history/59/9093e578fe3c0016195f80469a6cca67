@@ -247,14 +247,7 @@ public class Animal {
 					System.out.print("I " + arrayName[i][j][k] + " ");
 				}
 			}
-			System.out.println(" I ");
 		}
-		
-		String[] cloneOfArray = Arrays.copyOf(stringArray, 3);
-		
-		System.out.println(Arrays.toString(cloneOfArray));
-		
-		System.out.println(Arrays.binarySearch(cloneOfArray, "Random"));
 	}
 	
 }
