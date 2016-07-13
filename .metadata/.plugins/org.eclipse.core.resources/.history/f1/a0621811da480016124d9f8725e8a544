@@ -11,4 +11,3 @@ public class AboutTheWorld
 		System.out.println(3 + FIVEPINUM);
 	}
 }
-
