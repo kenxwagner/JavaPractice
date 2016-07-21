@@ -13,8 +13,6 @@ public class Import {
 			int numberEntered = userInput.nextInt();
 			
 			System.out.println("You like Episode " + numberEntered);
-		}else {
-			System.out.println("Enter and integer please.");
 		}
 		
 	}
